@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bootcamp Digit Recognition Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="sendingRequestMessage">Request Send</string>
+    <string name="val_FLAG_CAMERA">1563</string>
+</resources>
